@@ -1,0 +1,1 @@
+Faya Hospital adalah aplikasi berbasis web yang dirancang untuk membantu pengelolaan rumah sakit secara digital. Sistem ini dibuat sebagai bagian dari proyek kuliah untuk mendemonstrasikan implementasi CRUD dan sistem otentikasi user berbasis role.
